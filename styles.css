@@ -1,0 +1,91 @@
+body {
+  font-family: 'Cormorant Garamond', serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f5e6ca;
+}
+
+header {
+  background-color: #6d4c3d;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+nav ul {
+  list-style: none;
+  padding: 0;
+  text-align: center;
+  background: #8b5a2b;
+  margin: 0;
+  padding: 10px 0;
+  font-size: 20px;
+}
+
+nav ul li {
+  display: inline;
+  margin: 0 20px;
+}
+
+nav ul li a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+section {
+  padding: 30px;
+  margin: 40px auto;
+  background: #fff8e1;
+  border-radius: 10px;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+  width: 80%;
+  text-align: justify;
+  border: 2px solid #8b5a2b;
+  font-size: 22px;
+  line-height: 1.8;
+}
+
+h2 {
+  color: #4b2e17;
+  font-size: 28px;
+  text-align: center;
+  text-transform: uppercase;
+  border-bottom: 2px solid #8b5a2b;
+  padding-bottom: 10px;
+}
+
+ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+ul li {
+  font-size: 20px;
+  margin: 15px 0;
+  font-weight: bold;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 10px;
+  margin-top: 10px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+footer {
+  text-align: center;
+  padding: 20px;
+  background: #6d4c3d;
+  color: white;
+  position: relative;
+  bottom: 0;
+  width: 100%;
+  font-size: 18px;
+}
+
